@@ -2,7 +2,7 @@
 <html>
    <head>
       <meta charset="utf-8">
-      <title>Kat Fuss | Assignment 4: Odd Student Out</title>
+      <title>Kat Fuss | DMS Major | Assignment 4: Odd Student Out</title>
    </head>
 
    <body>

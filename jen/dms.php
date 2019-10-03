@@ -2,7 +2,7 @@
 <html>
    <head>
       <meta charset="utf-8">
-      <title>Jennifer Ngene | Assignment 4: Odd Student Out</title>
+      <title>Jennifer Ngene | DMS Major | Assignment 4: Odd Student Out</title>
    </head>
 
    <body>

@@ -2,7 +2,7 @@
 <html>
    <head>
       <meta charset="utf-8">
-      <title>Dewey Bazirake | Assignment 4: Odd Student Out</title>
+      <title>Dewey Bazirake | CS Major | Assignment 4: Odd Student Out</title>
    </head>
 
    <body>
