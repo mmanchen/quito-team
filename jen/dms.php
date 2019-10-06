@@ -9,7 +9,7 @@
       <header>
          <a href="jen.php">
             <h1>Jennifer Ngene</h1>
-            <img href="jen.php" src="../images/jen.jpg" alt="jen">
+            <img src="../images/jen.jpg" alt="jen">
          </a>
       </header>
 
