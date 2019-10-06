@@ -9,7 +9,7 @@
       <header>
          <a href="dewey.php">
             <h1>Dewey Bazirake</h1>
-            <img href="dewey.php" src="../images/dewey.jpg" alt="dewey">
+            <img src="../images/dewey.jpg" alt="dewey">
          </a>
       </header>
 
