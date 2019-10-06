@@ -9,7 +9,7 @@
       <header>
          <a href="kat.php">
             <h1>Kat Fuss</h1>
-            <img href="kat.php" src="../images/kat.jpg" alt="kat">
+            <img src="../images/kat.jpg" alt="kat">
          </a>
       </header>
 
