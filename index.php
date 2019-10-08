@@ -15,10 +15,10 @@
             <header class="persistent">
               <div class="container">
                 <section class="primary">
-                  <a href=""> <img src="quito.png" alt=""></a>
+                  <!--<a href=""> <img src="quito.png" alt=""></a>-->
+                  <a href="index.php"> <img src="images/rochester.png" alt="rochester"></a>
                 </section>
                 <section class="strong">
-                  <a href="index.php"> <img src="images/rochester.png" alt="rochester"></a>
                     <a>University of Rochester Students</a>
                 </section>
               </div> <!--.container-->
