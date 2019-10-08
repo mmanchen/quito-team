@@ -12,7 +12,7 @@ Link to the team’s website on the class webserver which won’t be available i
 
 # Domain
 
-	This website is made up of two DMS majors and one CS major (Kat and Jen). The CS major is the "odd one out" (Dewey). Each major will get a Background page which is a short description of the person. They will also get a Major page describing why they picked either a DMS major or a CS major. 
+	This website is made up of two DMS majors and one CS major (Kat and Jen). The CS major is the "odd one out" (Dewey). Each major will get a background paragraph which is a short description of the person and why they chose their major. 
 
 # Ontology
 
@@ -23,13 +23,10 @@ Link to the team’s website on the class webserver which won’t be available i
 # Taxonomy
 
 	1. Home
-	2. Kat Fuss
-	3. Jennifer Ngene
-	4. Dewey Bazirake
+	2. Learn More...
 
-	1. Background
-	2. DMS Major OR CS Major
+	1. Different headings to the person and why they chose that major
 
 # Choreography
 
-	The website will have a Home page that will link to the two DMS majors and the one CS major. All three majors will have a "Background" page where they will describe their own background information in their own words. Kat and Jen will have a DMS Major page where they will describe why they became DMS majors. Dewey will have a CS Major page where he will describe why he became a CS Major. Each page will have a menu to navigate to the other majors.
+	The website will have a Home page that will link to the two DMS majors and the one CS major. The Home page will use the Z-pattern. There will be a "Learn More" link on the Home Page. Once that is clicked, it will take you to a page with the F-pattern of all the majors and why they chose their perspective majors.
