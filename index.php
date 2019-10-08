@@ -19,8 +19,7 @@
                 </section>
                 <section class="strong">
                   <a href=""> <img src="" alt=""></a>
-                    <a>University of Rochester students
-                    </a>
+                    <a>University of Rochester students</a>
                 </section>
               </div> <!--.container-->
             </header>
@@ -28,7 +27,7 @@
             <main>
               <div class="big-text"> <!--protect it from the flex property-->
                 <h1>Odd Student Out</h1>
-                <div>DMS & CS</div>
+                <h2>DMS & CS</h2>
               </div>
             </main>
 
@@ -38,7 +37,13 @@
                   Two DMS Students. One CS student.
                 </section>
                 <section class="terminal">
-                  Next Page...
+                  <nav class= "main-menu">
+                      <ul>
+                        <li>
+                          <a href="info.php"> Next Page... </a>
+                        </li>
+                      </ul>
+                    </nav>
                 </section>
               </div> <!--.container-->
             </footer>
@@ -63,7 +68,7 @@
             <main>
               <div class="big-text"> <!--protect it from the flex property-->
                 <h1>Odd Student Out</h1>
-                <div>DMS & CS</div>
+                <h2>DMS & CS</h2>
               </div>
             </main>
 
@@ -73,7 +78,13 @@
                   Two DMS Students. One CS student.
                 </section>
                 <section class="terminal">
-                  Next Page...
+                  <nav class= "main-menu">
+                      <ul>
+                        <li>
+                          <a href="info.php"> Next Page... </a>
+                        </li>
+                      </ul>
+                    </nav>
                 </section>
               </div> <!--.container-->
             </footer>
@@ -98,7 +109,7 @@
             <main>
               <div class="big-text"> <!--protect it from the flex property-->
                 <h1>Odd Student Out</h1>
-                <div>DMS & CS</div>
+                <h2>DMS & CS</h2>
               </div>
             </main>
 
@@ -111,7 +122,7 @@
                   <nav class= "main-menu">
                       <ul>
                         <li>
-                          <a href="info.php"> Next Page </a>
+                          <a href="info.php"> Next Page... </a>
                         </li>
                       </ul>
                     </nav>

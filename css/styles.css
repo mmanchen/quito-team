@@ -1,8 +1,11 @@
+
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Lobster|Mansalva|Pacifico|Permanent+Marker|Turret+Road&display=swap');
+
 /* ****************
 BASE
 ******************* */
 
-* { border: 1px solid hotpink; }
+/** { border: 1px solid hotpink; }*/
 
 /* ****************
 MODULES
@@ -126,4 +129,13 @@ body,
 
 h1{
   color: white;
+  font-family: Permanent Marker;
+  
+  font-size: 70px;
+}
+
+h2 {
+  color: white;
+  font-family: Indie Flower;
+  font-size: 45px;
 }
