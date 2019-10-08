@@ -19,7 +19,7 @@
                 </section>
                 <section class="strong">
                   <a href=""> <img src="" alt=""></a>
-                    <a>University of Rochester students</a>
+                    <a>University of Rochester Students</a>
                 </section>
               </div> <!--.container-->
             </header>
@@ -34,13 +34,13 @@
             <footer class="persistent">
               <div class="container">
                 <section class="weak">
-                  Two DMS Students. One CS student.
+                  Two DMS Students. One CS Student.
                 </section>
                 <section class="terminal">
                   <nav class= "main-menu">
                       <ul>
                         <li>
-                          <a href="info.php"> Next Page... </a>
+                          <a href="info.php"> Learn More... </a>
                         </li>
                       </ul>
                     </nav>
@@ -59,8 +59,7 @@
                 </section>
                 <section class="strong">
                   <a href=""> <img src="" alt=""></a>
-                    <a>University of Rochester students
-                    </a>
+                    <a>University of Rochester Students</a>
                 </section>
               </div> <!--.container-->
             </header>
@@ -75,13 +74,13 @@
             <footer class="persistent">
               <div class="container">
                 <section class="weak">
-                  Two DMS Students. One CS student.
+                  Two DMS Students. One CS Student.
                 </section>
                 <section class="terminal">
                   <nav class= "main-menu">
                       <ul>
                         <li>
-                          <a href="info.php"> Next Page... </a>
+                          <a href="info.php"> Learn More... </a>
                         </li>
                       </ul>
                     </nav>
@@ -100,7 +99,7 @@
                 </section>
                 <section class="strong">
                   <a href=""> <img src="" alt=""></a>
-                    <a>University of Rochester students
+                    <a>University of Rochester Students
                     </a>
                 </section>
               </div> <!--.container-->
@@ -116,13 +115,13 @@
             <footer class="persistent">
               <div class="container">
                 <section class="weak">
-                  Two DMS Students. One CS student.
+                  Two DMS Students. One CS Student.
                 </section>
                 <section class="terminal">
                   <nav class= "main-menu">
                       <ul>
                         <li>
-                          <a href="info.php"> Next Page... </a>
+                          <a href="info.php"> Learn More... </a>
                         </li>
                       </ul>
                     </nav>
