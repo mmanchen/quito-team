@@ -18,7 +18,7 @@
                   <a href=""> <img src="quito.png" alt=""></a>
                 </section>
                 <section class="strong">
-                  <a href=""> <img src="" alt=""></a>
+                  <a href="index.php"> <img src="images/rochester.png" alt="rochester"></a>
                     <a>University of Rochester Students</a>
                 </section>
               </div> <!--.container-->

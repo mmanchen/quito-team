@@ -45,7 +45,6 @@ header .container, footer .container {
   align-self: center;
 }
 
-
 /* ****************
 General formatting
 ******************* */
@@ -56,32 +55,6 @@ General formatting
 
 li {
   list-style-type: none;
-  border: 6px solid hotpink;
-  padding: 10px;
-  font-size: 28px;
-  font-family: Turret Road, sans-serif;
-  font-weight: bold;
-  background-color: rgb(255,255,255, 0.3);
-}
-
-a {
-  text-decoration: none;
-  color: black;
-}
-
-a:hover {
-  color: hotpink;
-}
-
-.strong {
-  font-family: Pacifico, sans-serif;
-  font-size: 25px;
-}
-
-.weak {
-  font-family: Indie Flower, sans-serif;
-  font-size: 25px;
-  font-weight: bold;
 }
 
 body,
@@ -156,12 +129,13 @@ body,
 
 h1{
   color: white;
-  font-family: Permanent Marker, sans-serif;
+  font-family: Permanent Marker;
+  
   font-size: 70px;
 }
 
 h2 {
   color: white;
-  font-family: Indie Flower, sans-serif;
+  font-family: Indie Flower;
   font-size: 45px;
 }
