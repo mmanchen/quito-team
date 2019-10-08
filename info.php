@@ -7,9 +7,8 @@
 </head>
 
 	<header>
-		<a href= "index.html">
-			<h1> Odd Student Out </h1>
-			
+		<a href= "index.php">
+			<h1> Odd Student Out </h1>	
 		</a>
 	</header>
 

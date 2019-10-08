@@ -1,35 +1,59 @@
-* {border: 1px solid hotpink;}
-.z-pattern main{
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	min-height: 100vh;
-}
-.container{
-	margin: 0 auto;
-	width: 95%;
-	max-width: 1700px;
-}
-.persistent{
-	position: fixed;
-	left: 0;
-	width: 100%;
+/* ****************
+BASE
+******************* */
 
-}
-header.persistent {top: 0 ;}
-footer.persistent {bottom: 0 ;}
+* { border: 1px solid hotpink; }
 
-header.container, footer.container{
-	display:flex;
-	justify-content: space-between;
-}
-.primary, .strong, .weak, .terminal{
-	align-self: center;
+/* ****************
+MODULES
+******************* */
 
+.container {
+  margin: 0 auto;
+  width: 95%;
+  max-width: 1200px;
 }
-.big-message{
-	text-align: center
+
+.z-pattern main {
+  display: flex;
+  justify-content: center; /*horizontally*/
+  align-items: center; /*vertically*/
+  min-height: 100vh; /*100% of the viewport height*/
 }
+
+.persistent {
+  position: fixed;
+  left: 0;
+  width: 100%;
+}
+header.persistent { top: 0; }
+footer.persistent { bottom: 0; }
+
+/* ****************
+Flex stuff for header and footer
+******************* */
+
+header .container, footer .container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.primary, .strong, .weak, .terminal {
+  align-self: center;
+}
+
+/* ****************
+General formatting
+******************* */
+
+.big-text {
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
 body,
 #slider,
 .wrap,
@@ -56,8 +80,8 @@ body,
 .slide1 {
   background-image: url("https://selina-res.cloudinary.com/image/upload/if_iw_gt_2560,c_scale,w_2560/ar_3:2,c_crop/e_sharpen:80,q_auto:good/f_auto/v1/s-cf-1/xdw7oj4u3s4v/39pNdRl2NvxUxG5ONTyuSs/af34818ac90a166a54ed21b709308528/Fotolia_131305531_Quito.jpg");
 }
-.slide2{
-	background-image: url("https://media.gq-magazine.co.uk/photos/5d1391ea08038f6689c51667/16:9/w_2560%2cc_limit/Quito-GQ-7Nov17_ISTOCK_b.jpg");
+.slide2 {
+  background-image: url("https://media.gq-magazine.co.uk/photos/5d1391ea08038f6689c51667/16:9/w_2560%2cc_limit/Quito-GQ-7Nov17_ISTOCK_b.jpg");
 }
 .slide3 {
   background-image: url("https://www.casagangotena.com/wp-content/uploads/2017/06/chapel-miracles-downtown-quito-1280x720.jpg");
@@ -99,6 +123,7 @@ body,
   right: 0;
   margin-right: 30px;
 }
+
 h1{
-	color: white;
+  color: white;
 }
