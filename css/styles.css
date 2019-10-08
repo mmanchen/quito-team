@@ -45,6 +45,7 @@ header .container, footer .container {
   align-self: center;
 }
 
+
 /* ****************
 General formatting
 ******************* */
@@ -70,6 +71,17 @@ a {
 
 a:hover {
   color: hotpink;
+}
+
+.strong {
+  font-family: Pacifico, sans-serif;
+  font-size: 25px;
+}
+
+.weak {
+  font-family: Indie Flower, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
 }
 
 body,
@@ -145,7 +157,6 @@ body,
 h1{
   color: white;
   font-family: Permanent Marker, sans-serif;
-  
   font-size: 70px;
 }
 
