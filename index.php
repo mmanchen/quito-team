@@ -21,7 +21,7 @@
         <header class = "persistent">
   <div class="container">
   <section class="primary">
-    <a href=""> <img src="quito.png" alt=""></a>
+    <a href=""> <img src="images/quito.png" alt=""></a>
   </section>
   <section class="strong">
     <a href=""> <img src="" alt=""></a>
@@ -57,7 +57,7 @@
         <header class = "persistent">
   <div class="container">
   <section class="primary">
-    <a href=""> <img src="quito.png" alt=""></a>
+    <a href=""> <img src="images/quito.png" alt=""></a>
   </section>
   <section class="strong">
     <a href=""> <img src="" alt=""></a>
@@ -93,7 +93,7 @@
         <header class = "persistent">
   <div class="container">
   <section class="primary">
-    <a href=""> <img src="quito.png" alt=""></a>
+    <a href=""> <img src="images/quito.png" alt=""></a>
   </section>
   <section class="strong">
     <a href=""> <img src="" alt=""></a>
