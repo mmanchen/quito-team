@@ -40,7 +40,7 @@
                   <nav class= "main-menu">
                       <ul>
                         <li>
-                          <a href="info.php"> Next Page... </a>
+                          <a href="info.php"> Learn More... </a>
                         </li>
                       </ul>
                     </nav>
@@ -74,13 +74,13 @@
             <footer class="persistent">
               <div class="container">
                 <section class="weak">
-                  Two DMS Students. One CS student.
+                  Two DMS Students. One CS Student.
                 </section>
                 <section class="terminal">
                   <nav class= "main-menu">
                       <ul>
                         <li>
-                          <a href="info.php"> Next Page... </a>
+                          <a href="info.php"> Learn More... </a>
                         </li>
                       </ul>
                     </nav>
@@ -121,7 +121,7 @@
                   <nav class= "main-menu">
                       <ul>
                         <li>
-                          <a href="info.php"> Next Page... </a>
+                          <a href="info.php"> Learn More... </a>
                         </li>
                       </ul>
                     </nav>
