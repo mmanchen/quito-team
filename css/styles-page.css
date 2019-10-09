@@ -2,7 +2,7 @@
 f-pattern
 ******************* */
 
-@import url('https://fonts.googleapis.com/css?family=Varela|Indie+Flower|Pacifico|Permanent+Marker|Turret+Road&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Robot+Slab|Varela|Indie+Flower|Pacifico|Permanent+Marker|Turret+Road&display=swap');
 
 /* **********************
 FOR REFERENCE/TESTING
@@ -65,9 +65,10 @@ a:hover {
 }
 
 .left-header {
-  font-family: Pacifico, sans-serif;
-  font-size: 16px;
-  margin-top: -5px;
+  font-family: Robot Slab, Pacifico, sans-serif;
+  font-size: 18px;
+  margin-top: -15px;
+  color: darkblue;
 }
 
 /* **********************
