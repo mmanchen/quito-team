@@ -19,7 +19,7 @@
                   <a href="index.php"> <img src="images/rochester.png" alt="rochester"></a>
                 </section>
                 <section class="strong">
-                    <h3>University of Rochester Students</h3>
+                    <a>University of Rochester Students</a>
                 </section>
               </div> <!--.container-->
             </header>
@@ -55,7 +55,7 @@
             <header class="persistent">
               <div class="container">
                 <section class="primary">
-                  <a href=""> <img src="quito.png" alt=""></a>
+                  <a href="index.php"> <img src="images/rochester.png" alt="rochester"></a>
                 </section>
                 <section class="strong">
                   <a href=""> <img src="" alt=""></a>
@@ -95,7 +95,7 @@
             <header class="persistent">
               <div class="container">
                 <section class="primary">
-                  <a href=""> <img src="quito.png" alt=""></a>
+                  <a href="index.php"> <img src="images/rochester.png" alt="rochester"></a>
                 </section>
                 <section class="strong">
                   <a href=""> <img src="" alt=""></a>
