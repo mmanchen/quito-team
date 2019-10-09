@@ -4,16 +4,43 @@ f-pattern
 
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower|Lobster|Mansalva|Pacifico|Permanent+Marker|Turret+Road&display=swap');
 
-* { border: 1px solid hotpink; }
+/* **********************
+FOR REFERENCE/TESTING
+************************* */
+/** { border: 1px solid hotpink; }*/
 
 
-/* ****************
-decorations
-******************* */
-
+/* **********************
+BASE
+************************* */
 body {
-  /*background-image: linear-gradient(yellow, blue, red);*/
-  background-image: linear-gradient(rgba(255,255,141,0.5), rgba(255,255,141,0.5), rgba(105,130,255,0.4), rgba(240,92,112,0.8));
+  background-image: linear-gradient(rgba(255,248,23,1), rgba(105,130,255,0.8), rgba(240,92,112,0.8));
+}
+
+.container {
+  margin: 0 auto;
+  width: 95%;
+  max-width: 1200px;
+}
+
+/* **********************
+HEADER
+************************* */
+header { max-height: 120px; }
+
+header.persistent { top: 0; }
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.persistent {
+  position: fixed;
+  left: 0;
+  width: 100%;
+  /*background-image: linear-gradient(rgba(255,251,101,0.8));*/
+  background-color: rgba(255,255,141,0.8);
 }
 
 .logo {
@@ -25,30 +52,28 @@ body {
 .center {
   color: hotpink;
   font-family: Permanent Marker, sans-serif;
-  font-size: 20px;
+  font-size: 40px;
+  margin-top: -40px;
 }
 
 a {
   text-decoration: none;
+  color: white;
+}
+
+a:hover {
   color: hotpink;
 }
-a:hover {
-  color: black;
+
+.left-header {
+  font-family: Pacifico, sans-serif;
+  font-size: 16px;
+  margin-top: -5px;
 }
 
-.container {
-  margin: 0 auto;
-  width: 95%;
-  max-width: 1200px;
-}
-
-.persistent {
-  position: fixed;
-  left: 0;
-  width: 100%;
-  background-color: white;
-}
-
+/* **********************
+MAIN
+************************* */
 main {
   display: grid;
   margin-top: 140px;
@@ -60,14 +85,17 @@ h2 {
   display: inline;
 }
 
-.kat figure {
-  float: left;
-  margin-top: 0px;
-}
+/* **********************
+MODULES
+************************* */
 
-.jen figure {
+.same figure {
   float: left;
   margin-top: 0px;
+  margin-bottom: 50px;
+}
+.adjust {
+  padding-bottom: 101px;
 }
 
 .dewey figure {
@@ -75,35 +103,18 @@ h2 {
   margin-top: 0px;
 }
 
-header { max-height: 120px; }
-
-header.persistent { top: 0; }
-header .container {
-  display: flex;
-  justify-content: space-between;
-}
-
-.kat, .jen, .dewey {
+.same, .dewey {
   grid-column: 2;
   padding-top: 15px;
 }
 
-.kat, .jen {
+.same {
   padding-bottom: 65px;
   padding-right: 20px;
-  background-color: orange;
-  border: 14px black;
-}
-
-.kat {
-  border-style: inset;
+  border: 14px white;
+  border-style: dotted;
   grid-row: 1;
-}
-
-.jen {
-  border-style: outset;
-  margin-top: 20px;
-  grid-row: 2;
+  background-image: linear-gradient(rgba(255,254,192,1), rgba(203,192,255,1));
 }
 
 .dewey {
@@ -117,6 +128,9 @@ header .container {
   background-color: pink;
 }
 
+/* **********************
+FOOTER
+************************* */
 footer {
   text-align: center;
 }

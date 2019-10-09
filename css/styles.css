@@ -4,16 +4,16 @@ z-pattern
 
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower|Lobster|Mansalva|Pacifico|Permanent+Marker|Turret+Road&display=swap');
 
+
+
+/* **********************
+FOR REFERENCE/TESTING
+************************* */
+/** { border: 1px solid hotpink; }*/
+
 /* ****************
 BASE
 ******************* */
-
-* { border: 1px solid hotpink; }
-
-/* ****************
-MODULES
-******************* */
-
 .container {
   margin: 0 auto;
   width: 95%;
@@ -26,6 +26,10 @@ MODULES
   align-items: center; /*vertically*/
   min-height: 100vh; /*100% of the viewport height*/
 }
+
+/* ****************
+MODULES
+******************* */
 
 .persistent {
   position: fixed;

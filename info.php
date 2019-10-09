@@ -27,22 +27,26 @@
 		</header>
 		<main>
 			<div class="container">
-				<section class="kat">
-		        	<h2> Kat</h2>
-		        	<figure>
-		        		<img src= "images/kat.jpg" alt="kat">
-		        	</figure>
-					<p>Studying the origins and development of technology is an interesting contrast to most of the DMS courses, which direct more towards its present and future uses in society. As I progress through this major, it's exciting to be able to move beyond the introductory courses and choose others that are unique to the topics that I am interested in. This semester I will be taking The Art of Film and Modern Architecture, both of which are subjects that are very new to me, but I am eager to learn more about. I am also continuing this CSC web development series, after taking CSC 170 last spring, and although I do not intend on pursuing computer science as a career, I think the fundamental skills learned are invaluable as the world becomes more digitized and driven by technology.
-					</p>
-				</section>
-				<section class="jen">
-					<h2> Jennifer</h2>
-					<figure>
-						<img src= "images/jen.jpg" alt="jen">
-					</figure>
-					<p>It wasn’t until I got into university and took CSC 170 during my first year that I realized the importance of the code that I was messing with when changing the numbers and letters from the Tumblr blog themes. I was very interested in the class and was thoroughly excited to learn as much as I could while taking the course. I could also see the career path that I could follow if I were to gain more knowledge in the area of creating websites. But I soon realized that I wanted to do more. I realized the potential that the digital could have for my creativity. And that pretty much explains why I am now a Digital Media Studies major. It’s where I can get to show my skills and learn more about all things digital and to keep on doing my own kind of digital composition of turning the ideas that I have in my head into digital pieces. 
-					</p>
-				</section>
+				<section class="same">
+					<!--<section class="kat">-->
+					<div class="adjust">
+			        	<h2> Kat</h2>
+			        	<figure>
+			        		<img src= "images/kat.jpg" alt="kat">
+			        	</figure>
+						<p>Studying the origins and development of technology is an interesting contrast to most of the DMS courses, which direct more towards its present and future uses in society. As I progress through this major, it's exciting to be able to move beyond the introductory courses and choose others that are unique to the topics that I am interested in. This semester I will be taking The Art of Film and Modern Architecture, both of which are subjects that are very new to me, but I am eager to learn more about. I am also continuing this CSC web development series, after taking CSC 170 last spring, and although I do not intend on pursuing computer science as a career, I think the fundamental skills learned are invaluable as the world becomes more digitized and driven by technology.
+						</p>	
+					</div>		
+					<!--<section class="jen">-->
+					
+						<h2> Jennifer</h2>
+						<figure>
+							<img src= "images/jen.jpg" alt="jen">
+						</figure>
+						<p>It wasn’t until I got into university and took CSC 170 during my first year that I realized the importance of the code that I was messing with when changing the numbers and letters from the Tumblr blog themes. I was very interested in the class and was thoroughly excited to learn as much as I could while taking the course. I could also see the career path that I could follow if I were to gain more knowledge in the area of creating websites. But I soon realized that I wanted to do more. I realized the potential that the digital could have for my creativity. And that pretty much explains why I am now a Digital Media Studies major. It’s where I can get to show my skills and learn more about all things digital and to keep on doing my own kind of digital composition of turning the ideas that I have in my head into digital pieces. 
+						</p>
+						
+				</section><!--same-->
 				<section class="dewey">
 					<h2> Dewey</h2>
 					<figure>
