@@ -5,6 +5,8 @@
 	<title> Assignment 04 | Odd Student Out </title>
 	<link rel="stylesheet" type="text/css" href="css/styles-page.css">
 </head>
+
+<body class="f-pattern">
 	<div class="parent">
 		<header class="persistent">
 			<div class="container">
@@ -26,7 +28,7 @@
 		<main>
 			<div class="container">
 				<section class="kat">
-		        	<h1> Kat</h1>
+		        	<h2> Kat</h2>
 		        	<figure>
 		        		<img src= "images/kat.jpg" alt="kat">
 		        	</figure>
@@ -34,7 +36,7 @@
 					</p>
 				</section>
 				<section class="jen">
-					<h1> Jennifer</h1>
+					<h2> Jennifer</h2>
 					<figure>
 						<img src= "images/jen.jpg" alt="jen">
 					</figure>
@@ -42,7 +44,7 @@
 					</p>
 				</section>
 				<section class="dewey">
-					<h1> Dewey</h1>
+					<h2> Dewey</h2>
 					<figure>
 						<img src= "images/dewey.jpg" alt="dewey">
 					</figure>
