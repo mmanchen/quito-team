@@ -58,13 +58,12 @@
                   <a href="index.php"> <img src="images/rochester.png" alt="rochester"></a>
                 </section>
                 <section class="strong">
-                  <a href=""> <img src="" alt=""></a>
                     <a>University of Rochester Students</a>
                 </section>
               </div> <!--.container-->
             </header>
 
-            <main>
+            <div class="section2">
               <div class="big-text"> <!--protect it from the flex property-->
                 <h1>Odd Student Out</h1>
                 <h2>DMS & CS</h2>
@@ -98,19 +97,18 @@
                   <a href="index.php"> <img src="images/rochester.png" alt="rochester"></a>
                 </section>
                 <section class="strong">
-                  <a href=""> <img src="" alt=""></a>
                     <a>University of Rochester Students
                     </a>
                 </section>
               </div> <!--.container-->
             </header>
 
-            <main>
+            <div class="section-2">
               <div class="big-text"> <!--protect it from the flex property-->
                 <h1>Odd Student Out</h1>
                 <h2>DMS & CS</h2>
               </div>
-            </main>
+            </div>
 
             <footer class="persistent">
               <div class="container">
