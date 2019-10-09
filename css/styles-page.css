@@ -1,42 +1,21 @@
+/* ****************
+f-pattern
+******************* */
+
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower|Lobster|Mansalva|Pacifico|Permanent+Marker|Turret+Road&display=swap');
 
 * { border: 1px solid hotpink; }
 
-/*.parent { 
-  display: grid; 
-  grid-template-columns: 1fr repeat(2, 2fr) 1fr 0fr; 
-  grid-template-rows: 1fr 1fr repeat(3, 2fr) 1fr; 
-  grid-column-gap: 5px;
-  grid-row-gap: 10px; 
-}
 
-.logo { 
-  grid-area: 1 / 1 / 2 / 2;
-} 
-.center { 
-  grid-area: 1 / 2 / 2 / 4; 
-} 
-.left-header { 
-  grid-area: 1 / 4 / 2 / 5; 
-  
-} 
-.space { 
-  grid-area: 2 / 1 / 5 / 3; 
-  color: red;
-  margin-right: 50px;
-  float: left;
-}
-.kat { grid-area: 3 / 3 / 4 / 5; 
-  float: center;
-} 
-.jen { grid-area: 4 / 3 / 5 / 5; } 
-.dewey { grid-area: 5 / 3 / 6 / 5; } 
-.footer { grid-area: 6 / 2 / 7 / 4; } 
-*/
+/* ****************
+decorations
+******************* */
 
 body {
-  background-color: yellow;
+  /*background-image: linear-gradient(yellow, blue, red);*/
+  background-image: linear-gradient(rgba(255,255,141,0.5), rgba(255,255,141,0.5), rgba(105,130,255,0.4), rgba(240,92,112,0.8));
 }
+
 .logo {
   justify-content: center;
   align-content: center;
@@ -110,16 +89,19 @@ header .container {
 }
 
 .kat, .jen {
-  border: 4px solid blue;
   padding-bottom: 65px;
   padding-right: 20px;
+  background-color: orange;
+  border: 14px black;
 }
 
 .kat {
+  border-style: inset;
   grid-row: 1;
 }
 
 .jen {
+  border-style: outset;
   margin-top: 20px;
   grid-row: 2;
 }
@@ -128,9 +110,11 @@ header .container {
   margin-top: 20px;
   grid-row: 3;
   grid-column: 1 / span 2;
-  border: 4px solid red;
+  border: 14px red;
+  border-style: double;
   padding-bottom: 30px;
   padding-left: 20px;
+  background-color: pink;
 }
 
 footer {
