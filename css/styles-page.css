@@ -10,11 +10,9 @@
 
 .logo { 
   grid-area: 1 / 1 / 2 / 2;
-  margin-right: 100px;
 } 
 .center { 
   grid-area: 1 / 2 / 2 / 4; 
-  margin-right: 100px;
 } 
 .left-header { 
   grid-area: 1 / 4 / 2 / 5; 
