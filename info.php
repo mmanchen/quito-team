@@ -6,7 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="css/styles-page.css">
 </head>
 	<div class="parent">
-		<header class="header">
+		<header class="persistent">
 			<div class="container">
 				<section class="logo">
 					<a href="index.php"> 

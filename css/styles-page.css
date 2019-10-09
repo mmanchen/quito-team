@@ -43,11 +43,7 @@ main {
   justify-content: center;
 }
 
-.header {
-  border: 1px solid blue;
-}
-
-img .kat {
+figure {
   float: left;
 }
 
