@@ -2,7 +2,7 @@
 f-pattern
 ******************* */
 
-@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Lobster|Mansalva|Pacifico|Permanent+Marker|Turret+Road&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Varela|Indie+Flower|Pacifico|Permanent+Marker|Turret+Road&display=swap');
 
 /* **********************
 FOR REFERENCE/TESTING
@@ -50,7 +50,6 @@ header .container {
 }
 
 .center {
-  color: hotpink;
   font-family: Permanent Marker, sans-serif;
   font-size: 40px;
   margin-top: -40px;
@@ -83,6 +82,7 @@ main {
 
 h2 {
   display: inline;
+  font-family: Permanent Marker, sans-serif;
 }
 
 /* **********************
@@ -128,9 +128,15 @@ MODULES
   background-color: pink;
 }
 
+p{ 
+  font-family: Varela, sans-serif; 
+  font-size: 14.5px;
+}
+
 /* **********************
 FOOTER
 ************************* */
 footer {
   text-align: center;
+  font-family: Turret Road, sans-serif;
 }
