@@ -63,7 +63,7 @@
               </div> <!--.container-->
             </header>
 
-            <main>
+            <div class="section2">
               <div class="big-text"> <!--protect it from the flex property-->
                 <h1>Odd Student Out</h1>
                 <h2>DMS & CS</h2>
@@ -102,12 +102,12 @@
               </div> <!--.container-->
             </header>
 
-            <main>
+            <div class="section-2">
               <div class="big-text"> <!--protect it from the flex property-->
                 <h1>Odd Student Out</h1>
                 <h2>DMS & CS</h2>
               </div>
-            </main>
+            </div>
 
             <footer class="persistent">
               <div class="container">
