@@ -68,7 +68,7 @@
                 <h1>Odd Student Out</h1>
                 <h2>DMS & CS</h2>
               </div>
-            </main>
+            </div>
 
             <footer class="persistent">
               <div class="container">
