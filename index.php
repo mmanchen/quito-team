@@ -58,7 +58,7 @@
                   <a href="index.php"> <img src="images/rochester.png" alt="rochester"></a>
                 </section>
                 <section class="strong">
-                    <a>University of Rochester Students</a>
+                    <h3>University of Rochester Students</h3>
                 </section>
               </div> <!--.container-->
             </header>
@@ -97,8 +97,7 @@
                   <a href="index.php"> <img src="images/rochester.png" alt="rochester"></a>
                 </section>
                 <section class="strong">
-                    <a>University of Rochester Students
-                    </a>
+                    <h3>University of Rochester Students</h3>
                 </section>
               </div> <!--.container-->
             </header>
