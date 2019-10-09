@@ -55,7 +55,7 @@
             <header class="persistent">
               <div class="container">
                 <section class="primary">
-                  <a href=""> <img src="quito.png" alt=""></a>
+                  <a href="index.php"> <img src="images/rochester.png" alt="rochester"></a>
                 </section>
                 <section class="strong">
                   <a href=""> <img src="" alt=""></a>
@@ -95,7 +95,7 @@
             <header class="persistent">
               <div class="container">
                 <section class="primary">
-                  <a href=""> <img src="quito.png" alt=""></a>
+                  <a href="index.php"> <img src="images/rochester.png" alt="rochester"></a>
                 </section>
                 <section class="strong">
                   <a href=""> <img src="" alt=""></a>
