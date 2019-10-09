@@ -7,7 +7,7 @@ Clara Martinez Rubio- Visual Designer
 Maria Mancheno- Technical Coder
 
 # Link to Website
-Link to the team’s website on the class webserver which won’t be available immediately but will exist eventually. (You need to add this before you turn-in the assignment on Wednesday.)
+	http://csc174.org/assignment04/quito-team/
 
 
 # Domain
